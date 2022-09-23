@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95a1cb55-f695-4e88-a12a-3e53070d0caa" name="Changes" comment="" />
+    <list default="true" id="95a1cb55-f695-4e88-a12a-3e53070d0caa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94db97a776ece04b934484839d48c4df729dd348" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +41,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +86,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663961155500</updated>
-      <workItem from="1663961156807" duration="510000" />
+      <workItem from="1663961156807" duration="1274000" />
+      <workItem from="1663965120227" duration="888000" />
+      <workItem from="1663966139763" duration="23000" />
+      <workItem from="1663966195291" duration="269000" />
     </task>
     <servers />
   </component>
@@ -54,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test 1" />
+    <MESSAGE value="commit test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test 2" />
   </component>
 </project>
